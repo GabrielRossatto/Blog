@@ -1,0 +1,63 @@
+body {
+    background-color: #b49dbd;
+    margin: auto; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh;
+    
+}
+
+
+
+div {
+    display: inline-block;
+    width: 100%;
+}
+
+
+form {
+
+    margin: auto; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh;
+
+}
+
+label {
+
+    background-color: #000;
+    border-radius: 5px;
+    margin-top: 25px;
+    color: #000;
+    font-weight: bold;
+    font-size: 25px;
+    height: 40px;
+    color: white;
+
+    
+
+
+}
+
+
+
+input {
+
+    margin-top:10px;
+}
+
+.enviar {
+    margin-top: 25px;
+    background-color: #000;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
