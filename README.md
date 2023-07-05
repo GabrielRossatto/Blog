@@ -1,2 +1,3 @@
-# Blog
- Blog para assuntos diversos, é possível você cadastrar posts e ler
+Projeto motivado pelo CEO da firedev, em um curso que ele ensinou sobre banco de dados e PHP.
+
+Nesse blog, é possível cadastrar posts e ler, cada post cadastrado vai aparecer na tela inicial. 
